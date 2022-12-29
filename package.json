@@ -1,0 +1,29 @@
+{
+    "name": "Midnight-theme",
+    "displayName": "Midnight",
+    "description": "A nice, dark theme. Like Midnight with sparkling stars.",
+    "version": "0.0.1",
+    "publisher": "Ton Kersten",
+    "author": {
+      "name": "Ton Kersten",
+      "email": "tonk@smartowl.nl"
+    },
+    "publisher": "tonk",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon/smartowl.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Midnight.json"
+            }
+        ]
+    },
+    "icon": "icon.svg"
+}
