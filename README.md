@@ -8,9 +8,12 @@ This is a theme with a really black background.
 
 ## Python example code preview
 
-![Python code example](images/screenshots/python.png)
+![Python code example](https://raw.githubusercontent.com/tonk/midnight/main/images/screenshots/python.png)
 
 # Version History
 
-## 0.0.1
+- 0.0.2
+* Fix screenshot URL
+
+- 0.0.1
 * Initial release.

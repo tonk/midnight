@@ -1,32 +1,38 @@
 {
-    "name": "midnight-theme",
-    "displayName": "Midnight",
-    "description": "A nice, dark theme. Like Midnight with sparkling stars.",
-    "version": "0.0.1",
-    "publisher": "TonKersten",
-    "author": {
-      "name": "Ton Kersten",
-      "email": "tonk@smartowl.nl",
-      "url": "https://www.linkedin.com/in/tonkersten/"
-    },
-    "engines": {
-        "vscode": "^1.6.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tonk/midnight.git"
-    },
-    "icon": "images/icon/smartowl.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Midnight",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Midnight.json"
-            }
-        ]
-    }
+  "name": "midnight-theme",
+  "displayName": "Midnight",
+  "description": "A nice, dark theme. Like Midnight with sparkling stars.",
+  "version": "0.0.2",
+  "publisher": "TonKersten",
+  "author": {
+    "name": "Ton Kersten",
+    "email": "tonk@smartowl.nl",
+    "url": "https://www.linkedin.com/in/tonkersten/"
+  },
+  "engines": {
+    "vscode": "^1.6.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonk/midnight.git"
+  },
+  "icon": "images/icon/smartowl.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "a840c00b-6211-4e61-ae7a-caa8896dbfe4",
+    "publisherDisplayName": "Ton Kersten",
+    "publisherId": "f2bdac78-cc34-4d8a-b823-5aa026facf6c",
+    "isPreReleaseVersion": false
+  }
 }
